@@ -128,14 +128,19 @@ As a lecturer:
 - You can also export the attendance to an **Excel** sheet.
 - Other simple features are available for managing the lecture panel.
 
-📜 License
-This project is licensed under the MIT License.
-
-📧 Support
-For any issues or inquiries, feel free to reach out via email: [Francis Njenga](mailto:rajeynj@gmail.com).
-
-### Visit My Website
-
-https://www.frankcodes.tech
 
 You can send donations to my PayPal account: rajeynjenga@gmail.com
+
+## 🖼️ Project Screenshots
+![WhatsApp Image 2025-12-13 at 12 40 48 AM](https://github.com/user-attachments/assets/851fcf8a-312c-4668-a505-6aa51c3b2702)
+
+![WhatsApp Image 2025-12-13 at 12 42 37 AM](https://github.com/user-attachments/assets/17619a5b-58c6-43aa-b783-5dbe07e05f86)
+
+![WhatsApp Image 2025-12-13 at 12 35 06 AM](https://github.com/user-attachments/assets/fe8881df-91a8-4724-908d-5c224a9f257d)
+
+![WhatsApp Image 2025-12-13 at 12 35 06 AM](https://github.com/user-attachments/assets/030326c4-a7bc-4022-9d4a-088eed35cec0)
+
+
+
+
+
