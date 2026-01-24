@@ -129,8 +129,6 @@ As a lecturer:
 - Other simple features are available for managing the lecture panel.
 
 
-You can send donations to my PayPal account: rajeynjenga@gmail.com
-
 ## 🖼️ Project Screenshots
 ![WhatsApp Image 2025-12-13 at 12 40 48 AM](https://github.com/user-attachments/assets/851fcf8a-312c-4668-a505-6aa51c3b2702)
 
@@ -139,6 +137,7 @@ You can send donations to my PayPal account: rajeynjenga@gmail.com
 ![WhatsApp Image 2025-12-13 at 12 35 06 AM](https://github.com/user-attachments/assets/fe8881df-91a8-4724-908d-5c224a9f257d)
 
 ![WhatsApp Image 2025-12-13 at 12 35 06 AM](https://github.com/user-attachments/assets/030326c4-a7bc-4022-9d4a-088eed35cec0)
+
 
 
 
